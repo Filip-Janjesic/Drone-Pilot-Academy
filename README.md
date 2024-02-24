@@ -1,5 +1,5 @@
 # Drone Pilot Akademija
-C# aplikacija s SQL bazom podataka za upravljanje Drone Pilot Akademijom. Nova baza podataka ("db_a9fb68_anjaandonovski") implementirana je s hrvatskim kolacijama. Sustav obuhvaća upravljanje instruktorima, vozilima, tečajevima, studentima i kategorijama. Integrirana analiza podataka omogućuje praćenje informacija o instruktorima, vozilima, tečajevima, studentima i kategorijama.
+C# aplikacija s SQL bazom podataka za upravljanje Drone Pilot Akademijom. Sustav obuhvaća upravljanje instruktorima, vozilima, tečajevima, studentima i kategorijama. Integrirana analiza podataka omogućuje praćenje informacija o instruktorima, vozilima, tečajevima, studentima i kategorijama.
 
 Ključne značajke:
 
