@@ -1,4 +1,4 @@
-# Drone Pilot Akademija
+# Drone Pilot Academy
 C# aplikacija s SQL bazom podataka za upravljanje Drone Pilot Akademijom. Sustav obuhvaća upravljanje instruktorima, vozilima, tečajevima, studentima i kategorijama. Integrirana analiza podataka omogućuje praćenje informacija o instruktorima, vozilima, tečajevima, studentima i kategorijama.
 
 Ključne značajke:
