@@ -1,2 +1,11 @@
-# Sistem-za-E-trgovinu
-Sistem za E-trgovinu: C# aplikacija s SQL bazom podataka. Pruža registraciju, pregled i kupovinu proizvoda te upravljanje korisnicima i narudžbama. Osvjetljava analizu podataka kroz SQL upite. Praktično iskustvo u izradi sustava za e-trgovinu, istražujući najbolje prakse i izazove.
+# Drone Pilot Akademija
+C# aplikacija s SQL bazom podataka za upravljanje Drone Pilot Akademijom. Nova baza podataka ("db_a9fb68_anjaandonovski") implementirana je s hrvatskim kolacijama. Sustav obuhvaća upravljanje instruktorima, vozilima, tečajevima, studentima i kategorijama. Integrirana analiza podataka omogućuje praćenje informacija o instruktorima, vozilima, tečajevima, studentima i kategorijama.
+
+Ključne značajke:
+
+Instruktori: Evidencija instruktora s informacijama poput imena, prezimena, vozačke dozvole, e-mail adrese i kontakt broja.
+Vozila: Upravljanje vozilima s definiranim tipom, markom, modelom, datumom kupovine i datumom registracije.
+Tečajevi: Organizacija tečajeva s podacima o instruktoru, vozilu, kategoriji i datumu početka.
+Studenti: Evidencija studenata s informacijama o imenu, prezimenu, adresi, OIB-u, kontakt broju i datumu upisa.
+Kategorije: Definiranje kategorija tečajeva s nazivom, cijenom, brojem teorijskih i vozačkih predavanja.
+Projekt pruža praktično iskustvo u razvoju sustava za upravljanje obrazovnim institucijama, istražujući najbolje prakse u području baza podataka i SQL upita.
