@@ -62,7 +62,7 @@ create table STUDENT_COURSE(
 
 
 	alter table COURSE add foreign key (ID_INSTRUCTOR) references INSTRUCTOR(ID);
-	alter table COURSE add foreign key (ID_DRONE) references VEHICLE(ID);
+	alter table COURSE add foreign key (ID_DRONE) references DRONE(ID);
 	alter table COURSE add foreign key (ID_CATEGORY) references CATEGORY(ID);
 	alter table STUDENT_COURSE add foreign key (ID_STUDENT) references STUDENT(ID);
 	alter table STUDENT_COURSE add foreign key (ID_COURSE) references COURSE(ID);
