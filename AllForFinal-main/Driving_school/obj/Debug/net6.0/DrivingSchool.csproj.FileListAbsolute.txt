@@ -1,0 +1,60 @@
+C:\Users\Anja\Desktop\csharp doma\Summer_project\DrivingSchool\bin\Debug\net6.0\DrivingSchool.exe
+C:\Users\Anja\Desktop\csharp doma\Summer_project\DrivingSchool\bin\Debug\net6.0\DrivingSchool.deps.json
+C:\Users\Anja\Desktop\csharp doma\Summer_project\DrivingSchool\bin\Debug\net6.0\DrivingSchool.runtimeconfig.json
+C:\Users\Anja\Desktop\csharp doma\Summer_project\DrivingSchool\bin\Debug\net6.0\DrivingSchool.dll
+C:\Users\Anja\Desktop\csharp doma\Summer_project\DrivingSchool\bin\Debug\net6.0\DrivingSchool.pdb
+C:\Users\Anja\Desktop\csharp doma\Summer_project\DrivingSchool\obj\Debug\net6.0\DrivingSchool.csproj.AssemblyReference.cache
+C:\Users\Anja\Desktop\csharp doma\Summer_project\DrivingSchool\obj\Debug\net6.0\DrivingSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anja\Desktop\csharp doma\Summer_project\DrivingSchool\obj\Debug\net6.0\DrivingSchool.AssemblyInfoInputs.cache
+C:\Users\Anja\Desktop\csharp doma\Summer_project\DrivingSchool\obj\Debug\net6.0\DrivingSchool.AssemblyInfo.cs
+C:\Users\Anja\Desktop\csharp doma\Summer_project\DrivingSchool\obj\Debug\net6.0\DrivingSchool.csproj.CoreCompileInputs.cache
+C:\Users\Anja\Desktop\csharp doma\Summer_project\DrivingSchool\obj\Debug\net6.0\DrivingSchool.dll
+C:\Users\Anja\Desktop\csharp doma\Summer_project\DrivingSchool\obj\Debug\net6.0\refint\DrivingSchool.dll
+C:\Users\Anja\Desktop\csharp doma\Summer_project\DrivingSchool\obj\Debug\net6.0\DrivingSchool.pdb
+C:\Users\Anja\Desktop\csharp doma\Summer_project\DrivingSchool\obj\Debug\net6.0\DrivingSchool.genruntimeconfig.cache
+C:\Users\Anja\Desktop\csharp doma\Summer_project\DrivingSchool\obj\Debug\net6.0\ref\DrivingSchool.dll
+C:\Users\Anja\Desktop\DrivingSchool\bin\Debug\net6.0\DrivingSchool.exe
+C:\Users\Anja\Desktop\DrivingSchool\bin\Debug\net6.0\DrivingSchool.deps.json
+C:\Users\Anja\Desktop\DrivingSchool\bin\Debug\net6.0\DrivingSchool.runtimeconfig.json
+C:\Users\Anja\Desktop\DrivingSchool\bin\Debug\net6.0\DrivingSchool.dll
+C:\Users\Anja\Desktop\DrivingSchool\bin\Debug\net6.0\DrivingSchool.pdb
+C:\Users\Anja\Desktop\DrivingSchool\obj\Debug\net6.0\DrivingSchool.csproj.AssemblyReference.cache
+C:\Users\Anja\Desktop\DrivingSchool\obj\Debug\net6.0\DrivingSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anja\Desktop\DrivingSchool\obj\Debug\net6.0\DrivingSchool.AssemblyInfoInputs.cache
+C:\Users\Anja\Desktop\DrivingSchool\obj\Debug\net6.0\DrivingSchool.AssemblyInfo.cs
+C:\Users\Anja\Desktop\DrivingSchool\obj\Debug\net6.0\DrivingSchool.csproj.CoreCompileInputs.cache
+C:\Users\Anja\Desktop\DrivingSchool\obj\Debug\net6.0\DrivingSchool.dll
+C:\Users\Anja\Desktop\DrivingSchool\obj\Debug\net6.0\refint\DrivingSchool.dll
+C:\Users\Anja\Desktop\DrivingSchool\obj\Debug\net6.0\DrivingSchool.pdb
+C:\Users\Anja\Desktop\DrivingSchool\obj\Debug\net6.0\DrivingSchool.genruntimeconfig.cache
+C:\Users\Anja\Desktop\DrivingSchool\obj\Debug\net6.0\ref\DrivingSchool.dll
+C:\Users\Pepy\Desktop\Anja zadatak\DrivingSchool - Copy\obj\Debug\net6.0\DrivingSchool.csproj.AssemblyReference.cache
+C:\Users\Pepy\Desktop\Anja zadatak\DrivingSchool - Copy\obj\Debug\net6.0\DrivingSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepy\Desktop\Anja zadatak\DrivingSchool - Copy\obj\Debug\net6.0\DrivingSchool.AssemblyInfoInputs.cache
+C:\Users\Pepy\Desktop\Anja zadatak\DrivingSchool - Copy\obj\Debug\net6.0\DrivingSchool.AssemblyInfo.cs
+C:\Users\Pepy\Desktop\Anja zadatak\DrivingSchool - Copy\obj\Debug\net6.0\DrivingSchool.csproj.CoreCompileInputs.cache
+C:\Users\Pepy\Desktop\Anja zadatak\DrivingSchool - Copy\obj\Debug\net6.0\DrivingSchool.dll
+C:\Users\Pepy\Desktop\Anja zadatak\DrivingSchool - Copy\obj\Debug\net6.0\refint\DrivingSchool.dll
+C:\Users\Pepy\Desktop\Anja zadatak\DrivingSchool - Copy\obj\Debug\net6.0\DrivingSchool.pdb
+C:\Users\Pepy\Desktop\Anja zadatak\DrivingSchool - Copy\bin\Debug\net6.0\DrivingSchool.exe
+C:\Users\Pepy\Desktop\Anja zadatak\DrivingSchool - Copy\bin\Debug\net6.0\DrivingSchool.deps.json
+C:\Users\Pepy\Desktop\Anja zadatak\DrivingSchool - Copy\bin\Debug\net6.0\DrivingSchool.runtimeconfig.json
+C:\Users\Pepy\Desktop\Anja zadatak\DrivingSchool - Copy\bin\Debug\net6.0\DrivingSchool.dll
+C:\Users\Pepy\Desktop\Anja zadatak\DrivingSchool - Copy\bin\Debug\net6.0\DrivingSchool.pdb
+C:\Users\Pepy\Desktop\Anja zadatak\DrivingSchool - Copy\obj\Debug\net6.0\DrivingSchool.genruntimeconfig.cache
+C:\Users\Pepy\Desktop\Anja zadatak\DrivingSchool - Copy\obj\Debug\net6.0\ref\DrivingSchool.dll
+C:\Users\Anja\Desktop\DrivingSchool Pepy - Copy\bin\Debug\net6.0\DrivingSchool.exe
+C:\Users\Anja\Desktop\DrivingSchool Pepy - Copy\bin\Debug\net6.0\DrivingSchool.deps.json
+C:\Users\Anja\Desktop\DrivingSchool Pepy - Copy\bin\Debug\net6.0\DrivingSchool.runtimeconfig.json
+C:\Users\Anja\Desktop\DrivingSchool Pepy - Copy\bin\Debug\net6.0\DrivingSchool.dll
+C:\Users\Anja\Desktop\DrivingSchool Pepy - Copy\bin\Debug\net6.0\DrivingSchool.pdb
+C:\Users\Anja\Desktop\DrivingSchool Pepy - Copy\obj\Debug\net6.0\DrivingSchool.csproj.AssemblyReference.cache
+C:\Users\Anja\Desktop\DrivingSchool Pepy - Copy\obj\Debug\net6.0\DrivingSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anja\Desktop\DrivingSchool Pepy - Copy\obj\Debug\net6.0\DrivingSchool.AssemblyInfoInputs.cache
+C:\Users\Anja\Desktop\DrivingSchool Pepy - Copy\obj\Debug\net6.0\DrivingSchool.AssemblyInfo.cs
+C:\Users\Anja\Desktop\DrivingSchool Pepy - Copy\obj\Debug\net6.0\DrivingSchool.csproj.CoreCompileInputs.cache
+C:\Users\Anja\Desktop\DrivingSchool Pepy - Copy\obj\Debug\net6.0\DrivingSchool.dll
+C:\Users\Anja\Desktop\DrivingSchool Pepy - Copy\obj\Debug\net6.0\refint\DrivingSchool.dll
+C:\Users\Anja\Desktop\DrivingSchool Pepy - Copy\obj\Debug\net6.0\DrivingSchool.pdb
+C:\Users\Anja\Desktop\DrivingSchool Pepy - Copy\obj\Debug\net6.0\DrivingSchool.genruntimeconfig.cache
+C:\Users\Anja\Desktop\DrivingSchool Pepy - Copy\obj\Debug\net6.0\ref\DrivingSchool.dll

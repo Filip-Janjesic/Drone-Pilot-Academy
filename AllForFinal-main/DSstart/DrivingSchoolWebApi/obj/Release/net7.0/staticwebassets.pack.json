@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\logo192.png",
+      "PackagePath": "staticwebassets\\logo192.png"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\logo512.png",
+      "PackagePath": "staticwebassets\\logo512.png"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\service-worker.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\service-worker.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\service-worker.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\service-worker.js.map",
+      "PackagePath": "staticwebassets\\service-worker.js.map"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\static\\css\\main.21e59105.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.21e59105.css"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\static\\css\\main.21e59105.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.21e59105.css.map"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\static\\js\\787.19471290.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\787.19471290.chunk.js"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\static\\js\\787.19471290.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\787.19471290.chunk.js.map"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\static\\js\\main.0720c48a.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.0720c48a.js"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\static\\js\\main.0720c48a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.0720c48a.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\static\\js\\main.0720c48a.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.0720c48a.js.map"
+    },
+    {
+      "Id": "D:\\AllForFinal\\AllForFinal\\DSstart\\DrivingSchoolWebApi\\wwwroot\\static\\media\\logo.2d27ead7c10f774c5306bcf3c257a728.svg",
+      "PackagePath": "staticwebassets\\static\\media\\logo.2d27ead7c10f774c5306bcf3c257a728.svg"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.DrivingSchoolWebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.DrivingSchoolWebApi.props",
+      "PackagePath": "build\\DrivingSchoolWebApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DrivingSchoolWebApi.props",
+      "PackagePath": "buildMultiTargeting\\DrivingSchoolWebApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.DrivingSchoolWebApi.props",
+      "PackagePath": "buildTransitive\\DrivingSchoolWebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
