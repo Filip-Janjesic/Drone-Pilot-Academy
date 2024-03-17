@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Zavrsni",
     "\\Zavrsni\\DronePilotAcademy"
   ],
-  "SelectedNode": "\\Zavrsni",
+  "SelectedNode": "\\Zavrsni\\DronePilotAcademy\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
