@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\AllForFinal-main",
+    "\\AllForFinal-main\\DSstart",
+    "\\AllForFinal-main\\DSstart\\DrivingSchoolWebApi",
     "\\Zavrsni",
-    "\\Zavrsni\\DronePilotAcademy"
+    "\\Zavrsni\\DPAstart",
+    "\\Zavrsni\\Frontend"
   ],
-  "SelectedNode": "\\Zavrsni\\DronePilotAcademy\\Program.cs",
+  "SelectedNode": "\\AllForFinal-main\\DSstart\\DrivingSchoolWebApi\\wwwroot",
   "PreviewInSolutionExplorer": false
 }
