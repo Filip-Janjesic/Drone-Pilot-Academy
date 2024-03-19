@@ -2,12 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\AllForFinal-main",
-    "\\AllForFinal-main\\DSstart",
-    "\\AllForFinal-main\\DSstart\\DrivingSchoolWebApi",
     "\\Zavrsni",
     "\\Zavrsni\\DPAstart",
     "\\Zavrsni\\Frontend"
   ],
-  "SelectedNode": "\\AllForFinal-main\\DSstart\\DrivingSchoolWebApi\\wwwroot",
+  "SelectedNode": "\\Zavrsni",
   "PreviewInSolutionExplorer": false
 }

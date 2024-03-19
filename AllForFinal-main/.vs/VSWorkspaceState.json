@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DSstart",
+    "\\DSstart\\DrivingSchoolWebApi"
   ],
+  "SelectedNode": "\\DSstart\\DrivingSchoolWebApi\\DSstart.sln",
   "PreviewInSolutionExplorer": false
 }
