@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DPAstart"
+    "\\Frontend",
+    "\\Frontend\\public",
+    "\\Frontend\\src",
+    "\\Frontend\\src\\assets"
   ],
-  "SelectedNode": "\\DronePilotAcademy",
+  "SelectedNode": "\\Frontend\\public\\index.html",
   "PreviewInSolutionExplorer": false
 }
