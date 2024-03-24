@@ -4,7 +4,6 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 
-import logo from '../logo.svg';
 
 export default class MainMenu extends Component {
 
@@ -20,7 +19,7 @@ export default class MainMenu extends Component {
             <Nav className="Tu isto nesto">
               <NavDropdown title="Select" id="basic-nav-dropdown">
 
-                <NavDropdown.Item href="/vehicles">Vehicles</NavDropdown.Item>
+                <NavDropdown.Item href="/drones">Drones</NavDropdown.Item>
 
 
                 <NavDropdown.Item href="/students">Students</NavDropdown.Item>

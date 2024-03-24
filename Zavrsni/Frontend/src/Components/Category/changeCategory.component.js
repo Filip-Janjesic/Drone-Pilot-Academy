@@ -63,7 +63,7 @@ export default class changeCategory extends Component {
       name: datainfo.get('name'),
       price: datainfo.get('price'),
       numbeR_OF_TR_LECTURES: datainfo.get('numbeR_OF_TR_LECTURES'),
-      numbeR_OF_DRIVING_LECTURES: datainfo.get('numbeR_OF_DRIVING_LECTURES')
+      numbeR_OF_DRIVING_LECTURES: datainfo.get('numbeR_OF_FLYING_LECTURES')
     });
 
   }
@@ -98,10 +98,10 @@ export default class changeCategory extends Component {
               defaultValue={category.numbeR_OF_TR_LECTURES} required />
           </Form.Group>
 
-          <Form.Group className="mb-3" controlId="numbeR_OF_DRIVING_LECTURES">
-            <Form.Label>NUMBER_OF_DL</Form.Label>
-            <Form.Control type="text" name="numbeR_OF_DRIVING_LECTURES" placeholder="50"
-              defaultValue={category.numbeR_OF_DRIVING_LECTURES} required />
+          <Form.Group className="mb-3" controlId="numbeR_OF_FLYING_LECTURES">
+            <Form.Label>NUMBER_OF_PL</Form.Label>
+            <Form.Control type="text" name="numbeR_OF_FLYING_LECTURES" placeholder="50"
+              defaultValue={category.numbeR_OF_FLYING_LECTURES} required />
           </Form.Group>
 
 

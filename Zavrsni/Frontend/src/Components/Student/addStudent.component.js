@@ -21,7 +21,6 @@ export default class addStudent extends Component {
 
       window.location.href = '/students';
     } else {
-      // pokaži grešku
       console.log(answer);
     }
   }
@@ -51,8 +50,6 @@ export default class addStudent extends Component {
     return (
       <Container>
         <Form onSubmit={this.handleSubmit}>
-
-
 
 
           <Form.Group className="mb-3" controlId="firsT_NAME">
@@ -101,8 +98,6 @@ export default class addStudent extends Component {
 
 
         </Form>
-
-
 
       </Container>
     );
