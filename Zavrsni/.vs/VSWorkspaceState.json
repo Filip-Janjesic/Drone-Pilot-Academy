@@ -1,11 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Frontend",
-    "\\Frontend\\public",
-    "\\Frontend\\src",
-    "\\Frontend\\src\\assets"
+    "\\DPAstart",
+    "\\DPAstart\\DronePilotAcademyWebApi",
+    "\\DPAstart\\DronePilotAcademyWebApi\\Properties",
+    "\\DronePilotAcademy"
   ],
-  "SelectedNode": "\\Frontend\\public\\index.html",
+  "SelectedNode": "\\DPAstart\\DronePilotAcademyWebApi\\DronePilotAcademyWebApi.sln",
   "PreviewInSolutionExplorer": false
 }
