@@ -21,9 +21,9 @@ class courseDataService {
     return await http.get('/course/' + ID + '/instructors');
   }
 
-  async getVehicles(ID) {
+  async getDrones(ID) {
 
-    return await http.get('/course/' + ID + '/vehicles');
+    return await http.get('/course/' + ID + '/DRONES');
   }
 
   async getCategories(ID) {

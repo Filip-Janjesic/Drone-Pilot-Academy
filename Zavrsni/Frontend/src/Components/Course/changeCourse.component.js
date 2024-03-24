@@ -41,10 +41,10 @@ export default class ChangeCourse extends Component {
     this.state = {
       course: {},
       students: [],
-      vehicles: [],
+      drones: [],
       instructors: [],
       categores: [],
-      IDVehicle:0,
+      IDDrone:0,
       IDCategory:0,
       IDInstructor:0, 
       foundStudents: []
@@ -87,13 +87,13 @@ export default class ChangeCourse extends Component {
 
   // pitaj profa jel da dohvacam sve 4 bindane veze na course
   // također za search i delete
-  async getVehicles() {
-    console.log('Getting vehicles');
-    await vehicleDataService.get()
+  async getDrones() {
+    console.log('Getting drones');
+    await droneDataService.get()
       .then(response => {
         this.setState({
-          vehicles: response.data,
-          IDVehicle: response.data[0].ID
+          drones: response.data,
+          IDDrone: response.data[0].ID
         });
 
       })
@@ -188,7 +188,7 @@ export default class ChangeCourse extends Component {
     const { students} = this.state;
     const { course} = this.state;
     const { instructors} = this.state;
-    const {vehicles}=this.state;
+    const {drones}=this.state;
     const {categories}=this.state;
     const { foundStudents} = this.state;
 
@@ -235,13 +235,13 @@ export default class ChangeCourse extends Component {
                 </Form.Select>
               </Form.Group>
 
-              <Form.Group className="mb-3" controlId="vehicle">
-                <Form.Label>Vehicle</Form.Label>
-                <Form.Select defaultValue={course.IDVehicle}  onChange={e => {
-                  this.setState({ IDVehicle: e.target.value});
+              <Form.Group className="mb-3" controlId="drone">
+                <Form.Label>Drone</Form.Label>
+                <Form.Select defaultValue={course.IDDrone}  onChange={e => {
+                  this.setState({ IDDrone: e.target.value});
                 }}>
-                {vehicles && vehicles.map((vehicle,index) => (
-                      <option key={index} value={vehicle.ID}>{vehicle.BRAND}</option>
+                {drones && drones.map((drone,index) => (
+                      <option key={index} value={drone.ID}>{drone.BRAND}</option>
 
                 ))}
                 </Form.Select>
