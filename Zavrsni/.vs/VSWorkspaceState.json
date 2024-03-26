@@ -3,9 +3,11 @@
     "",
     "\\DPAstart",
     "\\DPAstart\\DronePilotAcademyWebApi",
+    "\\DPAstart\\DronePilotAcademyWebApi\\Properties\\PublishProfiles",
     "\\DPAstart\\DronePilotAcademyWebApi\\wwwroot",
-    "\\DronePilotAcademy\\SQL"
+    "\\Frontend",
+    "\\Frontend\\public"
   ],
-  "SelectedNode": "\\DPAstart\\DronePilotAcademyWebApi\\appsettings.json",
+  "SelectedNode": "\\DPAstart\\DronePilotAcademyWebApi\\wwwroot",
   "PreviewInSolutionExplorer": false
 }
