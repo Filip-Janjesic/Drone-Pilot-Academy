@@ -3,9 +3,8 @@
     "",
     "\\DSstart",
     "\\DSstart\\DrivingSchoolWebApi",
-    "\\DSstart\\DrivingSchoolWebApi\\wwwroot",
-    "\\DSstart\\DrivingSchoolWebApi\\wwwroot\\static"
+    "\\DSstart\\DrivingSchoolWebApi\\wwwroot"
   ],
-  "SelectedNode": "\\DSstart\\DrivingSchoolWebApi\\wwwroot\\service-worker.js.map",
+  "SelectedNode": "\\DSstart\\DrivingSchoolWebApi\\wwwroot\\static",
   "PreviewInSolutionExplorer": false
 }
