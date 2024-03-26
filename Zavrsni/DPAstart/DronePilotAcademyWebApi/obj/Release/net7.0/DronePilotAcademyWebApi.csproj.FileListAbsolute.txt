@@ -1,0 +1,7 @@
+C:\Edunova\Drone-Pilot-Academy\Zavrsni\DPAstart\DronePilotAcademyWebApi\obj\Release\net7.0\DronePilotAcademyWebApi.csproj.AssemblyReference.cache
+C:\Edunova\Drone-Pilot-Academy\Zavrsni\DPAstart\DronePilotAcademyWebApi\obj\Release\net7.0\DronePilotAcademyWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edunova\Drone-Pilot-Academy\Zavrsni\DPAstart\DronePilotAcademyWebApi\obj\Release\net7.0\DronePilotAcademyWebApi.AssemblyInfoInputs.cache
+C:\Edunova\Drone-Pilot-Academy\Zavrsni\DPAstart\DronePilotAcademyWebApi\obj\Release\net7.0\DronePilotAcademyWebApi.AssemblyInfo.cs
+C:\Edunova\Drone-Pilot-Academy\Zavrsni\DPAstart\DronePilotAcademyWebApi\obj\Release\net7.0\DronePilotAcademyWebApi.csproj.CoreCompileInputs.cache
+C:\Edunova\Drone-Pilot-Academy\Zavrsni\DPAstart\DronePilotAcademyWebApi\obj\Release\net7.0\DronePilotAcademyWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Edunova\Drone-Pilot-Academy\Zavrsni\DPAstart\DronePilotAcademyWebApi\obj\Release\net7.0\DronePilotAcademyWebApi.MvcApplicationPartsAssemblyInfo.cache
