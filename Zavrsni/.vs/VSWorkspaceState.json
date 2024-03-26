@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\DPAstart",
-    "\\DPAstart\\DronePilotAcademyWebApi",
-    "\\DPAstart\\DronePilotAcademyWebApi\\Properties",
-    "\\DronePilotAcademy"
+    "\\DPAstart\\DronePilotAcademyWebApi"
   ],
-  "SelectedNode": "\\DPAstart\\DronePilotAcademyWebApi\\DronePilotAcademyWebApi.sln",
+  "SelectedNode": "\\DPAstart\\DronePilotAcademyWebApi\\Properties",
   "PreviewInSolutionExplorer": false
 }

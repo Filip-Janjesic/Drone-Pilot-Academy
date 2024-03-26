@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\DSstart",
-    "\\DSstart\\DrivingSchoolWebApi"
+    "\\DSstart\\DrivingSchoolWebApi",
+    "\\DSstart\\DrivingSchoolWebApi\\wwwroot",
+    "\\DSstart\\DrivingSchoolWebApi\\wwwroot\\static"
   ],
-  "SelectedNode": "\\DSstart\\DrivingSchoolWebApi\\DSstart.sln",
+  "SelectedNode": "\\DSstart\\DrivingSchoolWebApi\\wwwroot\\service-worker.js.map",
   "PreviewInSolutionExplorer": false
 }
